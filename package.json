@@ -1,7 +1,7 @@
 {
-  "name": "@prisma-cms/component-boilerplate",
-  "description": "Component for prisma-cms",
-  "version": "0.0.0",
+  "name": "@prisma-cms/react-hooks",
+  "description": "",
+  "version": "1.0.0",
   "private": false,
   "main": "dist",
   "scripts": {
@@ -108,10 +108,6 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/prisma-cms/component-boilerplate.git"
-  },
   "keywords": [
     "prisma-cms",
     "front",
@@ -119,8 +115,12 @@
   ],
   "author": "Fi1osof",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/prisma-cms/component-boilerplate/issues"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prisma-cms/react-hooks.git"
   },
-  "homepage": "https://github.com/prisma-cms/component-boilerplate#readme"
+  "bugs": {
+    "url": "https://github.com/prisma-cms/react-hooks/issues"
+  },
+  "homepage": "https://github.com/prisma-cms/react-hooks#readme"
 }
