@@ -1,18 +1,16 @@
 import React from 'react'
 import Head from 'next/head'
-import App from '../../../src'
 
-const MainPage: React.FC = (props) => {
+const MainPage: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Component boilerplate</title>
+        <title>React hooks</title>
         <meta
           name="description"
-          content="Component boilerplate for prisma-cms"
+          content="React hooks for prisma-cms"
         />
       </Head>
-      <App {...props} />
     </>
   )
 }
